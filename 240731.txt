@@ -77,8 +77,7 @@ CCTV161,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 咪咕直播 (12),http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
 咪咕直播 (13),http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
 咪咕直播 (14),http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV-1，http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 TV ASAHI,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
