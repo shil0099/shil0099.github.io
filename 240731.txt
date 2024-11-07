@@ -7,7 +7,7 @@ CCTV56,http://112.46.85.60:8009/hls/503/index.m3u8
 CCTV57,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV58,http://180.142.220.34:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002139/index.m3u8
-CCTV5+2,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002139/index.m3u8
+CCTV5+2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV5+3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 CCTC16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV161,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
